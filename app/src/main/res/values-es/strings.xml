@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometria Plana</string>
+    <string name="informe_a_base_e_a_altura_do_ret_ngulo">Ingrese la base y la altura del rectángulo:</string>
+    <string name="base">Base</string>
+    <string name="rea">Zona</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpiar</string>
+</resources>

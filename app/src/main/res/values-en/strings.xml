@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometry Plan</string>
+    <string name="limpar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="altura">Height</string>
+    <string name="rea">Area</string>
+    <string name="informe_a_base_e_a_altura_do_ret_ngulo">Enter the base and height of the rectangle:</string>
+    <string name="base">Base</string>
+</resources>

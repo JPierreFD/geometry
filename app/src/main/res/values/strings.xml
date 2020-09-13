@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geometria Plana</string>
+    <string name="limpar">Limpar</string>
+    <string name="calcular">Calcular</string>
+    <string name="altura">Altura</string>
+    <string name="rea">Área</string>
+    <string name="informe_a_base_e_a_altura_do_ret_ngulo">Informe a base e a altura do retângulo:</string>
+    <string name="base">Base</string>
+</resources>
